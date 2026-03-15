@@ -1,0 +1,5 @@
+{
+  "name": "File Password Tester",
+  "description": "Upload files (PDF, ZIP, XLSX) and test them against a list of passwords to find the correct one.",
+  "requestFramePermissions": []
+}
